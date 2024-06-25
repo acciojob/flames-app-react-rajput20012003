@@ -10,3 +10,15 @@ button{
     justify-content: center;
     align-items: center;
 }
+.input-field {
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    margin-right: 10px;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
